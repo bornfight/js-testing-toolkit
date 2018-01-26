@@ -1,13 +1,7 @@
-import sinontest from "sinon-test";
-import mocha from "mocha";
-import chai from "chai";
-import sinon from "sinon";
-import sinonchai from "sinon-chai";
+import * as sinontest from "sinon-test";
+import * as mocha from "mocha";
+import * as chai from "chai";
+import * as sinon from "sinon";
+import * as sinonchai from "sinon-chai";
 
-export default {
-    sinon: sinon,
-    chai: chai,
-    mocha: mocha,
-    sinontest: sinontest,
-    sinonchai: sinonchai,
-};
+export {mocha, chai, sinon, sinonchai, sinontest};
