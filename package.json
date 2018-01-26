@@ -1,6 +1,6 @@
 {
   "name": "@degordian/testing-toolkit",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A collection of various js testing and static-analysis tools that are used internally.",
   "main": "index.js",
   "scripts": {
