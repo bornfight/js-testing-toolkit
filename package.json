@@ -38,9 +38,7 @@
     "stryker-html-reporter": "^0.12.1",
     "stryker-mocha-framework": "^0.8.3",
     "stryker-mocha-runner": "^0.10.5",
-    "stryker-typescript": "^0.9.1"
-  },
-  "devDependencies": {
+    "stryker-typescript": "^0.9.1",
     "mocha-junit-reporter": "^1.17.0"
   }
 }
