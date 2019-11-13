@@ -30,7 +30,7 @@
     "sinon": "^4.2.1",
     "sinon-chai": "^3.3.0",
     "sinon-test": "^2.1.2",
-    "ts-node": "^4.1.0",
+    "ts-node": "^7.0.1",
     "tslint-sonarts": "^1.4.0",
     "stryker": "^0.19.3",
     "stryker-api": "^0.13.0",
