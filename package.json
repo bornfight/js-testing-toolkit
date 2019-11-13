@@ -34,7 +34,7 @@
     "tslint-sonarts": "^1.4.0",
     "stryker": "^0.19.3",
     "stryker-api": "^0.13.0",
-    "stryker-html-reporter": "^0.12.1",
+    "stryker-html-reporter": "^0.18.1",
     "stryker-mocha-framework": "^0.15.1",
     "stryker-mocha-runner": "^0.10.5",
     "stryker-typescript": "^0.18.1",
